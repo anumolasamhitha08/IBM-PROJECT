@@ -1,0 +1,55 @@
+# Core framework
+streamlit>=1.32.0
+
+# IBM WatsonX / Granite
+ibm-watsonx-ai>=0.2.6
+ibm-watson>=7.0.1
+
+# Charts and data
+plotly>=5.18.0
+pandas>=2.1.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Vector database
+chromadb>=0.4.22
+
+# Embeddings
+sentence-transformers>=2.3.1
+
+# Environment
+python-dotenv>=1.0.0
+
+# Security
+bcrypt>=4.1.2
+cryptography>=42.0.0
+
+# Language detection and translation
+langdetect>=1.0.9
+deep-translator>=1.11.4
+
+# HTTP
+requests>=2.31.0
+urllib3>=2.2.0
+
+# Data validation
+pydantic>=2.5.0
+
+# Numerical
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# System monitoring
+psutil>=5.9.8
+
+# Utilities
+python-dateutil>=2.8.2
+uuid6>=2024.1.12
+
+# PDF ingestion (optional – for future document upload)
+PyPDF2>=3.0.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
